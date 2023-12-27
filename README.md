@@ -7,11 +7,11 @@
 - 💞️ I’m looking to collaborate on ...
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-|:house:| Johor Bahru，Johor |
+|Home:house:| Johor Bahru，Johor |
 |--|--|
-| :books: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| :basketball:🏸:|Basketballer|
-| :computer::iphone:| Playing Games|
+| Academic Career:books: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Sports:|<p>🏀Basketball <p>🏸Badminton|
+| Hobbies: | <pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 
 ## 📫 How to reach me
