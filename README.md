@@ -12,7 +12,7 @@
  <a href="https://www.facebook.com/ng.yuhin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/ng.yuhin.7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rick_nng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rick_nng/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yu-hin-ng-475777298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yu-hin-ng-475777298/" height="30" width="40" /></a>
-<a href="https://discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9772" height="30" width="40" /></a>
+
 </p>
  <a href="mailto:ngyuhin2004@gmail.com"><img src="https://img.shields.io/badge/ngyuhin2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
