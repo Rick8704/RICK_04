@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
+
+
 - 👋 Hi, I’m @RickHackUrSht
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
