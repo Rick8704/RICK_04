@@ -6,6 +6,13 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+|:house:| Johor Bahru，Johor |
+|--|--|
+| :books: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| :basketball:🏸:|Basketballer|
+| :computer::iphone:| Playing Games|
+
 
 ## 📫 How to reach me
 <p align="left">
