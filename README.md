@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
+<p align="center"> <img src="hhttps://blog.lingoda.com/wp-content/uploads/2020/10/How-To-Say-Hello-in-10-Languages.jpg" height="100" ; width="200"> </p>
 
 
 - 👋 Hi, I’m @RickHackUrSht
