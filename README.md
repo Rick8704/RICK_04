@@ -5,13 +5,26 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ng Yu Hin</h1>
+
+<p align="centre">
+  <em>
+    This is me <b>Ng Yu Hin</b>, a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
+    An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmar</b>&nbsp;
+    <br>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-|Home:house:| Johor Bahru，Johor |
+|Home🏡:| Johor Bahru，Johor |
 |--|--|
-| Academic Career:books: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| Sports:|<p>🏀Basketball <p>🏸Badminton|
-| Hobbies: | <pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
+| Academic Career📖: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Sports🏅:|<p>🏀Basketball <p>🏸Badminton|
+| Hobbies☕: | <pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
+
+## What I'm Up to~~
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+- Exploring github
+```
 
 
 ## 📫 How to reach me
