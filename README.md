@@ -6,7 +6,7 @@
 
 <p align="centre">
   <em>
-    This is me <b>Ng Yu Hin</b>, a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
+    <b>I'm </b> a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
     An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmar</b>&nbsp;
     <br>
 <hr>
