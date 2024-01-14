@@ -1,10 +1,7 @@
 <p align="center"> <img src="https://blog.lingoda.com/wp-content/uploads/2020/10/How-To-Say-Hello-in-10-Languages.jpg" height="300" ; width="500"> </p>
 
 
-- 👋 Hi, I’m NG YU HIN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ng Yu Hin</h1>
 
 <p align="centre">
@@ -39,4 +36,8 @@
 <!---
 RickHackUrSht/RickHackUrSht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m NG YU HIN
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 --->
