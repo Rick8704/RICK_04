@@ -35,7 +35,9 @@
 
 </p>
  <a href="mailto:ngyuhin2004@gmail.com"><img src="https://img.shields.io/badge/ngyuhin2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
-
+ 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rick8704" alt="Rick8704" /></a> </p>
+<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rick8704&" alt="Rick8704" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rick8704&show_icons=true&locale=en" alt="Rick8704" /></p>
 <!---
 RickHackUrSht/RickHackUrSht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
