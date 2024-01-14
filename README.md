@@ -11,7 +11,7 @@
     <br>
 <hr>
   <p style"position:absolute ; bottom:20px">
- <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height="200" ; width="400" align="right"> </p>
+ <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height="200" ; width="350" align="right"> </p>
     
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 |Home🏡:| Johor Bahru，Johor |
