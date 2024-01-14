@@ -9,7 +9,9 @@
     This is me <b>Ng Yu Hin</b>, a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
     An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmar</b>&nbsp;
     <br>
-
+<hr>
+  <p style"position:absolute ; bottom:20px">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F363454632410772751%2F&psig=AOvVaw1L1njH6AV9slel-TCvYMwu&ust=1705319235653000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjsjavo3IMDFQAAAAAdAAAAABAH" height="200" ; width="400" align="right"> </p>
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 |Home🏡:| Johor Bahru，Johor |
 |--|--|
