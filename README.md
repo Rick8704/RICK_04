@@ -17,7 +17,7 @@
 |Home🏡:| Johor Bahru，Johor |
 |--|--|
 | Academic Career📖: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| Sports🏅:|<p>🏀Basketball </p> <p>🏸Badminton </p>|
+| Sports🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
 | Hobbies☕: | <pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 ## What I'm Up to~~
