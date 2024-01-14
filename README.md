@@ -25,14 +25,16 @@
 ```yaml
 - Exploring github
 ```
-
+<h5 align="left">Languages and Tools:</h5>
+<p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
 
 ## 📫 How to reach me
 <p align="left">
 <a href="https://www.facebook.com/ng.yuhin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/ng.yuhin.7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rick_nng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rick_nng/" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yu-hin-ng-475777298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yu-hin-ng-475777298/" height="30" width="40" /></a>
-
+<a href="https://github.com/Rick8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rick04" height="30" width="40" /></a><a
+                                                                                                                                                                                                                                                     
 </p>
  <a href="mailto:ngyuhin2004@gmail.com"><img src="https://img.shields.io/badge/ngyuhin2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
  
