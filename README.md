@@ -36,6 +36,7 @@
 <a href="https://github.com/Rick8704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rick04" height="30" width="40" /></a><a
                                                                                                                                                                                                                                                      
 </p>
+
  <a href="mailto:ngyuhin2004@gmail.com"><img src="https://img.shields.io/badge/ngyuhin2004@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
  
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rick8704" alt="Rick8704" /></a> </p>
