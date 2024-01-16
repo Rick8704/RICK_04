@@ -26,7 +26,7 @@
 - Exploring github
 ```
 <h5 align="left">Languages and Tools:</h5>
-<p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   [<img src="socials/Visual_Studio_Code_1.35_icon.svg.png" height="30em" align="center" alt="VS Code Logo" title="VS Code Logo"/>](https://vscode.dev/)
+<p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   
   
 ## 📫 How to reach me
 <p align="left">
