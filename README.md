@@ -17,7 +17,7 @@
 |Home🏡:| Johor Bahru，Johor |
 |--------|--------|
 | Academic Career📖: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| Cerificates: |<p>SMK Taman Mount Austin :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi Kejuruteraan Johor:<pre>PNGK 3.98</pre></p><p>Muet:<pre>4.00</pre>|
+| Cerificates📚: |<p>SMK Taman Mount Austin :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi Kejuruteraan Johor:<pre>PNGK 3.98</pre></p><p>Muet:<pre>4.00</pre>|
 | Sports🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
 | Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
@@ -28,11 +28,12 @@
 - Enjoying the moment
 - Learning C++ programming language
 ```
-<h5 align="left">Languages and Tools:</h5>
+
+## Languages and Tools 🔦
 <p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   
-##  Academic Source 
-#Notes & Assignment
+##  Academic Source 🧑‍🎓
+#Notes & Assignment📝
 
 -Technology and Information System[Link to TIS ](Courses/TIS)
 
