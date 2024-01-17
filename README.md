@@ -35,13 +35,13 @@
 ##  Academic Source 🧑‍🎓
 #Notes & Assignment📝
 
--Technology and Information System[Link to TIS ](Courses/TIS)
+-Technology and Information System -> [Link to TIS ](Courses/TIS)
 
--Discrete Structure[Link to DS ](Courses/DS)
+-Discrete Structure                -> [Link to DS ](Courses/DS)
 
--Digital Logic[Link to DL ](Courses/DL)
+-Digital Logic                     -> [Link to DL ](Courses/DL)
 
--Programming Technique I[Link to PTI ](Courses/PT1)
+-Programming Technique I           -> [Link to PTI ](Courses/PT1)
 
 ## 📫 How to reach me
 <p align="left">
