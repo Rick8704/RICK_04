@@ -1,1 +1,4 @@
-<h1 align="left"> Reflection:</h1>
+<h1 align="left"> Link to the UTM Digital Industry Visit Video: </h1>
+<h2 align="left">  https://www.linkedin.com/posts/yu-hin-ng-475777298_utm-digital-industry-visit-activity-7153040288326795265-0ZYV?utm_source=share&utm_medium=member_desktop </h2>
+<h3 align="left"> Reflection of the Industry Visit to UTM Digital:</h3>
+<p>The visit to UTM DIGITAL was an insightful experience, offering valuable insights into the industry. Exploring areas like the director's office and innovation room allowed us to understand diverse responsibilities and their dynamic working environment. The highlight was the data center, enhancing our understanding of data storage, particularly beneficial for data engineering students. The visit broadened our comprehension of the data field and clarified the role of a data engineer, guiding students like me toward future career pursuits in the dynamic world of data.</p>
