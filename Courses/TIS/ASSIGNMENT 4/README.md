@@ -1,3 +1,3 @@
-<h1 align="left"> Reflection on PC Assembly: </h1>
-<p>Taking apart and reassembling a mainframe computer in the PC assembly session was a great hands-on learning experience. With expert guidance, it deepened my understanding of computer hardware, helping me comprehend the overall structure. This practical exercise not only demystified how computers work but also gave me confidence in troubleshooting hardware issues. Overall, the PC assembly was a practical and insightful activity, equipping me with tangible skills and knowledge beyond theory.
+<h1 align="left"> Reflection: </h1>
+<p>Education is an ongoing process, and I am committed to continually learning and applying the knowledge gained from lectures to improve my skills. Additionally, as I prepare for my future career, I will focus on enhancing my communication skills, building self-confidence through practice and preparation. I believe strong communication skills are crucial for effective teamwork. In line with Ms. Qistina's advice on the rapid pace of technological advancements, I will stay informed about the latest technology trends and integrate them into my tasks to stay current with technology.
 </p>
