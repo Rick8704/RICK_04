@@ -15,19 +15,33 @@
     
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 |Home🏡:| Johor Bahru，Johor |
-|--|--|
+|--------|--------|
 | Academic Career📖: |<p>High School :<pre>SMK Taman Mount Austin</p></pre><p>College :<pre> Kolej Matrikulasi Kejuruteraan Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Cerificates: |<p>SMK Taman Mount Austin :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi Kejuruteraan Johor:<pre>PNGK 3.98</pre></p><p>Muet:<pre>4.00</pre>|
 | Sports🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
-| Hobbies☕: | <pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
+| Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 ## What I'm Up to~~
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Exploring github
+- Enjoying the moment
+- Learning C++ programming language
 ```
 <h5 align="left">Languages and Tools:</h5>
-<p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   
+<p  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   
+##  Academic Source 
+#Notes & Assignment
+
+-Technology and Information System[Link to TIS ](courses/TIS)
+
+-Discrete Structure[Link to DS ](courses/DS)
+
+-Digital Logic[Link to DL ](courses/DL)
+
+-Programming Technique I[Link to PTI ](courses/PTI)
+
 ## 📫 How to reach me
 <p align="left">
 <a href="https://www.facebook.com/ng.yuhin.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/ng.yuhin.7" height="30" width="40" /></a>
