@@ -7,7 +7,7 @@
 <p align="centre">
   <em>
     <b>I'm </b> a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
-    An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmar</b>&nbsp;
+    An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmer</b>&nbsp;
     <br>
 <hr>
   <p style"position:absolute ; bottom:20px">
